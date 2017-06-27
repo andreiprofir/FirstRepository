@@ -12,7 +12,11 @@ namespace Conflict
         {
             Console.WriteLine("I love C#,");
             Console.WriteLine("and");
+<<<<<<< HEAD
             Console.WriteLine("C# love me too! :(");
+=======
+            Console.WriteLine("C# love me too!");
+>>>>>>> master
         }
     }
 }
