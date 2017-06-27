@@ -12,7 +12,7 @@ namespace Conflict
         {
             Console.WriteLine("I love C#,");
             Console.WriteLine("and");
-            Console.WriteLine("C# love me too! :D");
+            Console.WriteLine("C# love me too! :(");
         }
     }
 }
